@@ -1,461 +1,3 @@
-svg:not(:root).svg-inline--fa {
-    overflow: visible
-}
-
-.svg-inline--fa {
-    display: inline-block;
-    font-size: inherit;
-    height: 1em;
-    overflow: visible;
-    vertical-align: -.125em
-}
-
-.svg-inline--fa.fa-lg {
-    vertical-align: -.225em
-}
-
-.svg-inline--fa.fa-w-1 {
-    width: .0625em
-}
-
-.svg-inline--fa.fa-w-2 {
-    width: .125em
-}
-
-.svg-inline--fa.fa-w-3 {
-    width: .1875em
-}
-
-.svg-inline--fa.fa-w-4 {
-    width: .25em
-}
-
-.svg-inline--fa.fa-w-5 {
-    width: .3125em
-}
-
-.svg-inline--fa.fa-w-6 {
-    width: .375em
-}
-
-.svg-inline--fa.fa-w-7 {
-    width: .4375em
-}
-
-.svg-inline--fa.fa-w-8 {
-    width: .5em
-}
-
-.svg-inline--fa.fa-w-9 {
-    width: .5625em
-}
-
-.svg-inline--fa.fa-w-10 {
-    width: .625em
-}
-
-.svg-inline--fa.fa-w-11 {
-    width: .6875em
-}
-
-.svg-inline--fa.fa-w-12 {
-    width: .75em
-}
-
-.svg-inline--fa.fa-w-13 {
-    width: .8125em
-}
-
-.svg-inline--fa.fa-w-14 {
-    width: .875em
-}
-
-.svg-inline--fa.fa-w-15 {
-    width: .9375em
-}
-
-.svg-inline--fa.fa-w-16 {
-    width: 1em
-}
-
-.svg-inline--fa.fa-w-17 {
-    width: 1.0625em
-}
-
-.svg-inline--fa.fa-w-18 {
-    width: 1.125em
-}
-
-.svg-inline--fa.fa-w-19 {
-    width: 1.1875em
-}
-
-.svg-inline--fa.fa-w-20 {
-    width: 1.25em
-}
-
-.svg-inline--fa.fa-pull-left {
-    margin-right: .3em;
-    width: auto
-}
-
-.svg-inline--fa.fa-pull-right {
-    margin-left: .3em;
-    width: auto
-}
-
-.svg-inline--fa.fa-border {
-    height: 1.5em
-}
-
-.svg-inline--fa.fa-li {
-    width: 2em
-}
-
-.svg-inline--fa.fa-fw {
-    width: 1.25em
-}
-
-.fa-layers svg.svg-inline--fa {
-    bottom: 0;
-    left: 0;
-    margin: auto;
-    position: absolute;
-    right: 0;
-    top: 0
-}
-
-.fa-layers {
-    display: inline-block;
-    height: 1em;
-    position: relative;
-    text-align: center;
-    vertical-align: -.125em;
-    width: 1em
-}
-
-.fa-layers svg.svg-inline--fa {
-    -webkit-transform-origin: center center;
-    transform-origin: center center
-}
-
-.fa-layers-counter,
-.fa-layers-text {
-    display: inline-block;
-    position: absolute;
-    text-align: center
-}
-
-.fa-layers-text {
-    left: 50%;
-    top: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    -webkit-transform-origin: center center;
-    transform-origin: center center
-}
-
-.fa-layers-counter {
-    background-color: #ff253a;
-    border-radius: 1em;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    color: #fff;
-    height: 1.5em;
-    line-height: 1;
-    max-width: 5em;
-    min-width: 1.5em;
-    overflow: hidden;
-    padding: .25em;
-    right: 0;
-    text-overflow: ellipsis;
-    top: 0;
-    -webkit-transform: scale(.25);
-    transform: scale(.25);
-    -webkit-transform-origin: top right;
-    transform-origin: top right
-}
-
-.fa-layers-bottom-right {
-    bottom: 0;
-    right: 0;
-    top: auto;
-    -webkit-transform: scale(.25);
-    transform: scale(.25);
-    -webkit-transform-origin: bottom right;
-    transform-origin: bottom right
-}
-
-.fa-layers-bottom-left {
-    bottom: 0;
-    left: 0;
-    right: auto;
-    top: auto;
-    -webkit-transform: scale(.25);
-    transform: scale(.25);
-    -webkit-transform-origin: bottom left;
-    transform-origin: bottom left
-}
-
-.fa-layers-top-right {
-    right: 0;
-    top: 0;
-    -webkit-transform: scale(.25);
-    transform: scale(.25);
-    -webkit-transform-origin: top right;
-    transform-origin: top right
-}
-
-.fa-layers-top-left {
-    left: 0;
-    right: auto;
-    top: 0;
-    -webkit-transform: scale(.25);
-    transform: scale(.25);
-    -webkit-transform-origin: top left;
-    transform-origin: top left
-}
-
-.fa-lg {
-    font-size: 1.33333em;
-    line-height: .75em;
-    vertical-align: -.0667em
-}
-
-.fa-xs {
-    font-size: .75em
-}
-
-.fa-sm {
-    font-size: .875em
-}
-
-.fa-1x {
-    font-size: 1em
-}
-
-.fa-2x {
-    font-size: 2em
-}
-
-.fa-3x {
-    font-size: 3em
-}
-
-.fa-4x {
-    font-size: 4em
-}
-
-.fa-5x {
-    font-size: 5em
-}
-
-.fa-6x {
-    font-size: 6em
-}
-
-.fa-7x {
-    font-size: 7em
-}
-
-.fa-8x {
-    font-size: 8em
-}
-
-.fa-9x {
-    font-size: 9em
-}
-
-.fa-10x {
-    font-size: 10em
-}
-
-.fa-fw {
-    text-align: center;
-    width: 1.25em
-}
-
-.fa-ul {
-    list-style-type: none;
-    margin-left: 2.5em;
-    padding-left: 0
-}
-
-.fa-ul>li {
-    position: relative
-}
-
-.fa-li {
-    left: -2em;
-    position: absolute;
-    text-align: center;
-    width: 2em;
-    line-height: inherit
-}
-
-.fa-border {
-    border: solid .08em #eee;
-    border-radius: .1em;
-    padding: .2em .25em .15em
-}
-
-.fa-pull-left {
-    float: left
-}
-
-.fa-pull-right {
-    float: right
-}
-
-.fa.fa-pull-left,
-.fab.fa-pull-left,
-.fal.fa-pull-left,
-.far.fa-pull-left,
-.fas.fa-pull-left {
-    margin-right: .3em
-}
-
-.fa.fa-pull-right,
-.fab.fa-pull-right,
-.fal.fa-pull-right,
-.far.fa-pull-right,
-.fas.fa-pull-right {
-    margin-left: .3em
-}
-
-.fa-spin {
-    -webkit-animation: fa-spin 2s infinite linear;
-    animation: fa-spin 2s infinite linear
-}
-
-.fa-pulse {
-    -webkit-animation: fa-spin 1s infinite steps(8);
-    animation: fa-spin 1s infinite steps(8)
-}
-
-@-webkit-keyframes fa-spin {
-    0% {
-        -webkit-transform: rotate(0);
-        transform: rotate(0)
-    }
-
-    100% {
-        -webkit-transform: rotate(360deg);
-        transform: rotate(360deg)
-    }
-}
-
-@keyframes fa-spin {
-    0% {
-        -webkit-transform: rotate(0);
-        transform: rotate(0)
-    }
-
-    100% {
-        -webkit-transform: rotate(360deg);
-        transform: rotate(360deg)
-    }
-}
-
-.fa-rotate-90 {
-    -webkit-transform: rotate(90deg);
-    transform: rotate(90deg)
-}
-
-.fa-rotate-180 {
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg)
-}
-
-.fa-rotate-270 {
-    -webkit-transform: rotate(270deg);
-    transform: rotate(270deg)
-}
-
-.fa-flip-horizontal {
-    -webkit-transform: scale(-1, 1);
-    transform: scale(-1, 1)
-}
-
-.fa-flip-vertical {
-    -webkit-transform: scale(1, -1);
-    transform: scale(1, -1)
-}
-
-.fa-flip-horizontal.fa-flip-vertical {
-    -webkit-transform: scale(-1, -1);
-    transform: scale(-1, -1)
-}
-
-:root .fa-flip-horizontal,
-:root .fa-flip-vertical,
-:root .fa-rotate-180,
-:root .fa-rotate-270,
-:root .fa-rotate-90 {
-    -webkit-filter: none;
-    filter: none
-}
-
-.fa-stack {
-    display: inline-block;
-    height: 2em;
-    position: relative;
-    width: 2em
-}
-
-.fa-stack-1x,
-.fa-stack-2x {
-    bottom: 0;
-    left: 0;
-    margin: auto;
-    position: absolute;
-    right: 0;
-    top: 0
-}
-
-.svg-inline--fa.fa-stack-1x {
-    height: 1em;
-    width: 1em
-}
-
-.svg-inline--fa.fa-stack-2x {
-    height: 2em;
-    width: 2em
-}
-
-.fa-inverse {
-    color: #fff
-}
-
-.sr-only {
-    border: 0;
-    clip: rect(0, 0, 0, 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px
-}
-
-.sr-only-focusable:active,
-.sr-only-focusable:focus {
-    clip: auto;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    position: static;
-    width: auto
-}
-
-/*!
-* Template Name: Sphere - Responsive website template for CV/Resume/Portfolio
-* Version: 3.0.1
-* Author: Xiaoying Riley
-* Copyright: 3rd Wave Media Ltd.
-* Website: http://themes.3rdwavemedia.com/
-* Twitter: @3rdwave_themes
-*/
 body {
     font-family: 'Roboto', sans-serif;
     color: #666;
@@ -478,7 +20,7 @@ h6 {
 }
 
 a {
-    color: #00BCD4;
+    color: #607D8B;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -487,7 +29,7 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: #007888
+    color: #41545e
 }
 
 a:focus {
@@ -500,7 +42,7 @@ p {
 
 .btn,
 a.btn {
-    background: #008fa1;
+    background: #4b626d;
     color: #fff;
     padding: 8px 15px;
     -webkit-border-radius: 2px;
@@ -522,7 +64,7 @@ a.btn {
 .btn:hover,
 a.btn:hover {
     color: #fff;
-    background: #00a5bb
+    background: #566f7c
 }
 
 #topcontrol {
@@ -530,7 +72,7 @@ a.btn:hover {
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
-    background: #008fa1;
+    background: #4b626d;
     color: #fff;
     text-align: center;
     display: inline-block;
@@ -551,7 +93,7 @@ a.btn:hover {
 }
 
 #topcontrol:hover {
-    background: #007888;
+    background: #41545e;
     color: #fff
 }
 
@@ -563,7 +105,7 @@ a.btn:hover {
 }
 
 .header {
-    background: #00BCD4;
+    background: #607D8B;
     color: #fff
 }
 
@@ -577,30 +119,127 @@ a.btn:hover {
     padding-bottom: 120px
 }
 
-.footer .social {
-    margin-bottom: 0
+.header.header .topnav {
+    font-size: 20px;
 }
 
-.footer .social a {
+.umbler {
+    width: 130px;
+}
+
+.social {
+    font-size: 30px;
+}
+
+.rotacao:hover {
+    transition: 0.7s;
+    transform: rotate(360deg);
+}
+
+.html {
+    color: #e44d26
+}
+
+.css {
+    color: #0170ba
+}
+
+.js {
+    color: #f7df1f
+}
+
+.jquery {
+    color: #126ab2
+}
+
+.bootstrap {
+    color: #563d7c
+}
+
+.node {
+    color: #8fc740
+}
+
+.react {
+    color: #61dafb
+}
+
+.vuejs {
+    color: #67b280
+}
+
+.angular {
+    color: #dc0030
+}
+
+.photoshop {
+    color: #8fc6ea
+}
+
+.sqlserver {
+    color: #1e4b68
+}
+
+.mysql {
+    color: #e3752d
+}
+
+.oraclesql {
+    color: #d02022
+}
+
+.mongodb {
+    color: #402f1f
+}
+
+.postgresql {
+    color: #326791
+}
+
+.linkedin {
+    color: #006699
+}
+
+.facebook {
+    color: #006ab9
+}
+
+.twitter {
+    color: #55acef
+}
+
+.instagram {
+    color: #cf2ad9
+}
+
+.youtube {
+    color: #ff0000
+}
+
+.github {
+    color: #201f1f
+}
+
+.social a {
     color: rgba(255, 255, 255, 0.8);
     display: inline-block;
     text-align: center;
     width: 32px;
     height: 32px;
-    /* -webkit-border-radius: 50%;
+    -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%;
     -moz-background-clip: padding;
-    -webkit-background-clip: padding-box; */
+    -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    padding-top: 2px;
-    font-size: 20px;
-    /* border: 2px solid rgba(255, 255, 255, 0.8) */
+    padding-top: 3px;
+    font-size: 16px;
+    border: 2px solid rgba(255, 255, 255, 0.8)
 }
 
-.footer .social a:hover {
+.header .social a:hover {
     color: #fff;
     border-color: #fff
 }
@@ -611,7 +250,7 @@ a.btn:hover {
     top: 15px
 }
 
-.header .actions .fa {
+.header .actions .svg-inline--fa {
     margin-right: 5px
 }
 
@@ -647,7 +286,7 @@ a.btn:hover {
 }
 
 .header .intro {
-    background: #00a5bb;
+    background: #566f7c;
     padding-top: 90px;
     padding-bottom: 60px;
     position: relative;
@@ -660,7 +299,7 @@ a.btn:hover {
 }
 
 .header .contact-info {
-    background: #008fa1;
+    background: #4b626d;
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 16px
@@ -687,7 +326,7 @@ a.btn:hover {
     margin-right: 0
 }
 
-.header .contact-info li .fa {
+.header .contact-info li .svg-inline--fa {
     margin-right: 10px
 }
 
@@ -697,7 +336,7 @@ a.btn:hover {
 }
 
 .page-nav-wrapper {
-    background: #007888;
+    background: #41545e;
     padding-top: 20px;
     padding-bottom: 20px;
     position: absolute;
@@ -714,7 +353,7 @@ a.btn:hover {
     left: 0;
     width: 100%;
     z-index: 100;
-    background: #00BCD4
+    background: #607D8B
 }
 
 .page-nav-wrapper a {
@@ -764,8 +403,11 @@ a.btn:hover {
 }
 
 .wrapper {
-    padding-top: 60px;
-    padding-bottom: 60px
+    padding-bottom: 50px;
+}
+
+.wrapper-exp {
+    padding-top: 50px;
 }
 
 .section {
@@ -792,12 +434,12 @@ a.btn:hover {
 .section-title {
     margin-top: 0;
     margin-bottom: 45px;
-    font-size: 30px;
+    font-size: 24px;
     text-align: center
 }
 
 .timeline {
-    border-left: 3px solid #00BCD4;
+    border-left: 3px solid #607D8B;
     border-bottom-right-radius: 2px;
     border-top-right-radius: 2px;
     position: relative;
@@ -831,7 +473,7 @@ a.btn:hover {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     background: #fff;
-    border: 3px solid #00BCD4
+    border: 3px solid #607D8B
 }
 
 .timeline .item:after {
@@ -850,7 +492,7 @@ a.btn:hover {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background: #00BCD4;
+    background: #607D8B;
     z-index: 10
 }
 
@@ -865,7 +507,7 @@ a.btn:hover {
     color: #8a8a8a
 }
 
-.timeline .location .fa {
+.timeline .location .svg-inline--fa {
     margin-right: 5px
 }
 
@@ -884,7 +526,7 @@ a.btn:hover {
 
 .timeline .job-meta .title {
     font-size: 18px;
-    color: #00BCD4;
+    color: #607D8B;
     max-width: 220px
 }
 
@@ -906,7 +548,7 @@ a.btn:hover {
 
 .education-section .degree {
     font-size: 18px;
-    color: #00BCD4;
+    color: #607D8B;
     margin-top: 0;
     margin-bottom: 0px
 }
@@ -1020,12 +662,13 @@ a.btn:hover {
 
 .testimonials-section .icon-holder {
     position: absolute;
+    padding-top: 5px;
     left: -60px;
     top: 0;
     width: 36px;
     height: 36px;
     display: inline-block;
-    background: #00BCD4;
+    background: #607D8B;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -1067,7 +710,7 @@ a.btn:hover {
 }
 
 .testimonials-section .carousel-indicators li.active {
-    background-color: #00BCD4;
+    background-color: #607D8B;
     width: 10px;
     height: 10px;
     margin: 0;
@@ -1099,8 +742,8 @@ a.btn:hover {
 }
 
 .portfolio-section .filters .type.active {
-    color: #00BCD4;
-    border-bottom: 2px solid #00BCD4
+    color: #607D8B;
+    border-bottom: 2px solid #607D8B
 }
 
 .portfolio-section .item {
@@ -1112,7 +755,7 @@ a.btn:hover {
 }
 
 .portfolio-section .item-inner {
-    background: #00BCD4;
+    background: #607D8B;
     color: #fff;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -1129,7 +772,7 @@ a.btn:hover {
 }
 
 .portfolio-section .item-inner:hover {
-    background: #00c5de
+    background: #648291
 }
 
 .portfolio-section .item-inner:hover img {
@@ -1183,10 +826,10 @@ a.btn:hover {
 }
 
 .contact-section .intro .profile-image {
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
     position: absolute;
-    left: 20px
+    left: 30px
 }
 
 .contact-section .intro p {
@@ -1203,15 +846,11 @@ a.btn:hover {
 }
 
 .contact-section .service-list .svg-inline--fa {
-    color: #00BCD4;
+    color: #607D8B;
     margin-right: 5px
 }
 
-.contact-section .social {
-    margin-bottom: 0
-}
-
-.contact-section .social li {
+.contact-section .contact-section .social li {
     margin-right: 10px
 }
 
@@ -1227,28 +866,21 @@ a.btn:hover {
 }
 
 .contact-section .social a:hover {
-    color: #00BCD4
+    color: #607D8B
 }
 
-.footer {
-    background: #00BCD4;
+.footer .container {
     padding: 30px;
-    color: #fff;
+    color: #8a8a8a;
     letter-spacing: 0.5px
 }
 
-.footer a {
-    color: #fff;
-    font-size: 20px;
+.footer .container a {
+    color: #8a8a8a
 }
 
 @media (max-width: 767px) {
-    .footer .social {
-        margin: 0 auto;
-        text-align: center
-    }
-
-    .header .actions {
+    .header .header .actions {
         position: static;
         margin: 0 auto;
         margin-bottom: 30px;
@@ -1361,10 +993,6 @@ a.btn:hover {
 
     .contact-section .service-list {
         margin-left: 0
-    }
-
-    .contact-section .social {
-        margin: 0 auto
     }
 }
 
