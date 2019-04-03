@@ -9,9 +9,11 @@
   "author": "RBritoX",
   "license": "ISC",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.3.1",
     "bootstrap": "^4.3.1",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.4"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1"
   }
 }
