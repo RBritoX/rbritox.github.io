@@ -128,9 +128,7 @@ a.btn:hover {
 }
 
 .social-list {
-    margin-top: 5%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 5% 15% 0 15%;
 }
 
 .social {
@@ -231,19 +229,6 @@ a.btn:hover {
     color: rgba(255, 255, 255, 0.8);
     display: inline-block;
     text-align: center;
-    width: 32px;
-    height: 32px;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
-    border-radius: 50%;
-    -moz-background-clip: padding;
-    -webkit-background-clip: padding-box;
-    background-clip: padding-box;
-    padding-top: 3px;
-    font-size: 16px;
-    border: 2px solid rgba(255, 255, 255, 0.8)
 }
 
 .header .social a:hover {
@@ -855,14 +840,6 @@ a.btn:hover {
 .contact-section .service-list .svg-inline--fa {
     color: #607D8B;
     margin-right: 5px
-}
-
-.contact-section .contact-section .social li {
-    margin-right: 10px
-}
-
-.contact-section .social li:last-child {
-    margin-right: 0
 }
 
 .contact-section .social a {
