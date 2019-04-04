@@ -1,19 +1,6 @@
 $(document).ready(function () {
 
-    /* ======= Scrollspy ======= */
-    $('body').scrollspy({ target: '#page-nav-wrapper', offset: 300 });
 
-    /* ======= ScrollTo ======= */
-    $('.scrollto').on('click', function (e) {
-
-        //store hash
-        var target = this.hash;
-
-        e.preventDefault();
-
-        $('body').scrollTo(target, 800, { offset: -60, 'axis': 'y' });
-
-    });
 
     /* ======= Fixed page nav when scrolled ======= */
     $(window).on('scroll resize load', function () {
