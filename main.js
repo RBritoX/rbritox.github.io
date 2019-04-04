@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     /* ======= Scrollspy ======= */
-    $('body').scrollspy({ target: '#page-nav-wrapper', offset: 100 });
+    $('body').scrollspy({ target: '#page-nav-wrapper', offset: 300 });
 
     /* ======= ScrollTo ======= */
     $('.scrollto').on('click', function (e) {
