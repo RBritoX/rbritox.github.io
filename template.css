@@ -918,6 +918,10 @@ a.btn:hover {
         margin-bottom: 0
     }
 
+    .social {
+        text-align: center;
+    }
+
     .section {
         padding: 30px
     }
